@@ -1,2 +1,2 @@
 "# if_else_if" 
-["patika.dev"](patika.dev)
+["patika.dev"](https://www.patika.dev/tr)
